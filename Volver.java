@@ -1,0 +1,1 @@
+myWebView.setWebViewClient(new WebViewClient());
