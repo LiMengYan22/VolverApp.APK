@@ -1,5 +1,5 @@
 # VolverApp.java
-Botón para retornar la actividad o veolver atrás. Para aplicaciones móviles android (JAVA) APK..
+Botón para retornar la actividad o **volver atrás**. Para *aplicaciones móviles android* (JAVA) APK..
 
 #---en Principal.java:::
 import android.view.KeyEvent;
